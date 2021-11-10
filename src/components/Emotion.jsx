@@ -19,8 +19,8 @@ export const Emotion = () => {
   });
   return (
     <div css={containerStyle}>
-      <p css={titleStyle}>陰険地鶏女</p>
-      <SButton>えななん</SButton>
+      <p css={titleStyle}>ooo</p>
+      <SButton>ooo</SButton>
     </div>
   );
 };

@@ -2,8 +2,8 @@ export const StyledJsx = () => {
   return (
     <>
       <div className="container">
-        <p className="title">よくわからない</p>
-        <button className="button">pppppppn2</button>
+        <p className="title">uuu</p>
+        <button className="button">uuu</button>
       </div>
       <style jsx="true">{`
         .container {

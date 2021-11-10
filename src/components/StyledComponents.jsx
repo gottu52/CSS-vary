@@ -3,8 +3,8 @@ import styled from "styled-components";
 export const StyledCompo = () => {
   return (
     <Container>
-      <Title>ばかにしやがって！</Title>
-      <Button>な～ん</Button>
+      <Title>eee</Title>
+      <Button>eee</Button>
     </Container>
   );
 };
